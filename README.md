@@ -1,6 +1,7 @@
 ## [](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)  General Assembly Data Science
 ### DS-SEA-06 Repository
 
+<br><b>Data Science course</b>
 <br><b>Dates: March 20 - May 24</b>
 <br><b>Class times:</b> Mon and Wed 6:30pm - 9:30pm</b>
 <br><b>Location:</b> Seattle, WA
