@@ -14,10 +14,10 @@ Monday | Wednesday
 **Research Design and Exploratory data analysis**|
 3/20: [L01 Introduction to Data Science](#class-1) | 3/22: [L02 Research design and Pandas](#research-design)
 3/27: [L03 Statistics fundamentals](#stat_fund) | 3/29: [L04 Command Line and Version Control](#command-line)
-4/3: [L05 Fetching Data](#fetching-data), **Project Discussion Deadline** | 
+4/3: [L05 Fetching Data](#fetching-data), **Project Discussion Deadline** |  - 
  | 
-**Foundations of data modeling**|
-  | 4/5: [L06 Intro to Classification - K nearest neighbor](#knn), **Project Question and Dataset Due**
+**Foundations of data modeling**| 
+ - | 4/5: [L06 Intro to Classification - K nearest neighbor](#knn), **Project Question and Dataset Due**
 4/10: [L07 Intro to Regression](#intro-to-regression) | 4/13: [L08 Evaluating Model Fit](#evaluating-fit)
 4/17: [L09 Classifying with Logistic Regression](#logistic-regression) | 4/19: [L10 Advanced model evaluation](#advanced-model)
 4/24: [L11 Standardization and Clustering](#clustering) | 4/26: L12 **First Project Presentations** + bonus topics | 
