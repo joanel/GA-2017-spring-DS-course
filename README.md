@@ -2,7 +2,7 @@
 ### DS-SEA-06 Repository
 
 <br><b>Dates: March 20 - May 24</b>
-<br><b>Class times:</b> Mon and Wed 6:30pm - 9:30pm</br>
+<br><b>Class times:</b> <br>Mon and Wed 6:30pm - 9:30pm</br>
 <br><b>Location:</b> Seattle, WA
 
 <b/>Instructor:</b> <a href="https://www.linkedin.com/profile/view?id=ADEAAAEai9UBI1CGmAPFMYpURJeL9zvxWX6xBqI">Jim Byers</a>
