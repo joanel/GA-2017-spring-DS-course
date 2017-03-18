@@ -93,11 +93,13 @@ Before this lesson you should already be able to:
 <!--		* Our very own Kevin McAlear's [Hater News DAT project](http://haternews.co/?network=twitter) on the GA gallery
 -->
 **Homework:**
-* Due Dec 7
+* Due Mar 22
 	* Read through the information about the course project information to familiarize yourself with the [requirements](project/README.md) and [example projects](/project/project_examples/README.md).  Start thinking about what question you would like to answer in your project.
 		* Types of data ([slides](slides/01_types_of_data.pdf)) and [public data sources](project/public_data.md)
-* Due Dec 12
-	* Review each concept and each line of code in these files of python code: [00_python_beginner_workshop.py](code/00_python_beginner_workshop.py) and [00_python_intermediate_workshop.py](code/00_python_intermediate_workshop.py). Complete the coding exercises in the files: If you don't feel comfortable with any of the content (excluding the "requests" and "APIs" sections), you should spend some time before July 6 practicing Python.  Use your resources such as documentation, searches, the class Slack to get help if you get stuck.  Here are some additional resources:
+* Due Mar 27
+	* Review each concept and each line of code in these files of python code: [00_python_beginner_workshop.py](code/00_python_beginner_workshop.py) and [00_python_intermediate_workshop.py](code/00_python_intermediate_workshop.py). Complete the coding exercises in the files: If you don't feel comfortable with any of the content (excluding the "requests" and "APIs" sections), you should spend some time before July 6 practicing Python.  Use your resources such as documentation, searches, the class Slack to get help if you get stuck.
+	* To turn in homework,  attach files to a personal message in Slack to Jim Byers and Brandon 
+	* Here are some additional resources:
 	    * [Introduction to Python](http://introtopython.org/) does a great job explaining Python essentials and includes tons of example code.
 	    * If you like learning from a book, [Python for Informatics](http://www.pythonlearn.com/html-270/) has useful chapters on strings, lists, and dictionaries.
 	    * If you prefer interactive exercises, try these lessons from [Codecademy](http://www.codecademy.com/en/tracks/python): "Python Lists and Dictionaries" and "A Day at the Supermarket".
@@ -139,9 +141,9 @@ Before this lesson, you should already be able to:
 		* Independent Practice ([notebook](notebooks/02_starter_code.ipynb))
  
 **Homework:**
-* Due Dec 12
-	* To turn in homework,  attach files to a personal message in Slack to Jim Byers and Qingqing 
-	* Review each concept and each line of code in these files of python code: [00_python_beginner_workshop.py](code/00_python_beginner_workshop.py) and [00_python_intermediate_workshop.py](code/00_python_intermediate_workshop.py). Complete the coding exercises in the files: If you don't feel comfortable with any of the content (excluding the "requests" and "APIs" sections), you should spend some time before Mar 22nd practicing Python.  Use your resources such as documentation, searches, the class Slack to get help if you get stuck.  Here are some additional resources:
+* Due Mar 27
+	* To turn in homework,  attach files to a personal message in Slack to Jim Byers and Brandon 
+	* Review each concept and each line of code in these files of python code: [00_python_beginner_workshop.py](code/00_python_beginner_workshop.py) and [00_python_intermediate_workshop.py](code/00_python_intermediate_workshop.py). Complete the coding exercises in the files: If you don't feel comfortable with any of the content (excluding the "requests" and "APIs" sections), you should spend some time before Mar 27 practicing Python.  Use your resources such as documentation, searches, the class Slack to get help if you get stuck.  Here are some additional resources:
 	    * [Introduction to Python](http://introtopython.org/) does a great job explaining Python essentials and includes tons of example code.
 	    * If you like learning from a book, [Python for Informatics](http://www.pythonlearn.com/html-270/) has useful chapters on strings, lists, and dictionaries.
 	    * If you prefer interactive exercises, try these lessons from [Codecademy](http://www.codecademy.com/en/tracks/python): "Python Lists and Dictionaries" and "A Day at the Supermarket".
@@ -194,7 +196,7 @@ Name | Description
 	* [00_python_intermediate_workshop.py](code/00_python_intermediate_workshop.py) -->
 	
 **Homework:**
-* Due 12/14
+* Due 3/29
 	* *Windows users*, install [Git Bash](http://git-scm.com/download/win) prior to starting the command line pre-class exercise*** as you will need the "bash" type command window on your Windows laptop in order to do the exercise and later to use git
 		* We recommend Git Bash instead of Git Shell (which uses Powershell).
 		* For Mac users, you will probably be using Terminal, or another command line application of your choice.  It already is a bash type command line interpreter.  No need to load anything.  Git is part of the MAC OS so is already installed and ready to use.
@@ -238,7 +240,7 @@ Name | Description
 * Intermediate command line [(commands)](code/04_command_line_with_intermediate_advanced.md)
 
 **Homework:**
-* Due 12/21 Complete the [command line homework assignment](homework/04_command_line_chipotle.md) with the Chipotle data.
+* Due 4/5 Complete the [command line homework assignment](homework/04_command_line_chipotle.md) with the Chipotle data.
 * **Optional:** Browse through some more [example student projects](/project/project_examples/README.md), which may help to inspire your own project!
 
 **Git and Markdown Resources:**
@@ -276,7 +278,7 @@ Name | Description
     * [IMDb: The Shawshank Redemption](http://www.imdb.com/title/tt0111161/)
 
 **Homework:**
-* Due 12/21. 
+* Due 4/5 
 	* Complete the [command line homework assignment](homework/04_command_line_chipotle.md) with the Chipotle data.
 	* If you're using Anaconda, install Seaborn by running `conda install seaborn` at the command line. (Note that some students in past courses have had problems with Anaconda after installing Seaborn.) If you're not using Anaconda, [install Seaborn](http://stanford.edu/~mwaskom/software/seaborn/installing.html) using `pip`. 
 	* **Optional:** Complete the homework exercise listed in the [web scraping code](code/05_web_scraping.py). It will take the place of any one homework you miss, past or future! This optional homework is due on Jan 4.
