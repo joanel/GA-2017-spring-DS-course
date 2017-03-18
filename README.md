@@ -1,5 +1,5 @@
-### [ ](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)  DS-SEA-06 course repository
-### General Assembly Data Science course
+## [](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)  General Assembly Data Science
+### DS-SEA-06 Repository
 <br><b>Location:</b> Seattle, WA
 <br><b>Class times:</b> Mon and Wed 6:30pm - 9:30pm</br>
 <b/>Instructor:</b> <a href="https://www.linkedin.com/profile/view?id=ADEAAAEai9UBI1CGmAPFMYpURJeL9zvxWX6xBqI">Jim Byers</a>
