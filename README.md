@@ -9,7 +9,7 @@
 <br>
 <br>
 <!-- **Note:** Prior to the first day of class complete the 10-15 hours of pre-work in order to be properly prepared for class [(prework)](https://gist.github.com/kevinmcalear/9e5625d5eac58fe35de8#account) -->
-
+### Calendar
 Monday | Wednesday
 --- | ---
 **Research Design and Exploratory data analysis**|
