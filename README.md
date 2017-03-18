@@ -1,4 +1,4 @@
-##![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)  DS-SEA-5 course repository
+###[](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)  DS-SEA-06 course repository
 ###General Assembly Data Science course
 **Location:** Seattle, WA
 <br><b>Class times:</b> Mon and Wed 6:30pm - 9:30pm</br>
@@ -9,25 +9,21 @@
 Monday | Wednesday
 --- | ---
 **Research Design and Exploratory data analysis**|
-12/5: [L01 Introduction to Data Science](#class-1) | 12/7: [L02 Research design and Pandas](#research-design)
-12/12: [L03 Statistics fundamentals](#stat_fund) | 12/14: [L04 Command Line and Version Control](#command-line)
-12/19: [L05 Fetching Data](#fetching-data), **Project Discussion Deadline** | 
+3/20: [L01 Introduction to Data Science](#class-1) | 3/22: [L02 Research design and Pandas](#research-design)
+3/27: [L03 Statistics fundamentals](#stat_fund) | 3/29: [L04 Command Line and Version Control](#command-line)
+4/3: [L05 Fetching Data](#fetching-data), **Project Discussion Deadline** | 
  | 
 **Foundations of data modeling**|
- | 12/21: [L06 Intro to Classification - K nearest neighbor](#knn), **Project Question and Dataset Due**
-12/26: Holiday | 12/28: Holiday
-1/2: Holiday | 1/04: [L07 Intro to Regression](#intro-to-regression)
-1/9: [L08 Evaluating Model Fit](#evaluating-fit) | 1/11: [L09 Classifying with Logistic Regression](#logistic-regression)
-1/16: Holiday | 1/18: [L10 Advanced model evaluation](#advanced-model)
-1/23: [L11 Standardization and Clustering](#clustering) | 1/25: L12 **First Project Presentations** + bonus topics | 
+ | 4/5: [L06 Intro to Classification - K nearest neighbor](#knn), **Project Question and Dataset Due**
+4/10: [L07 Intro to Regression](#intro-to-regression) | 4/13: [L08 Evaluating Model Fit](#evaluating-fit)
+4/17: [L09 Classifying with Logistic Regression](#logistic-regression) | 4/19: [L10 Advanced model evaluation](#advanced-model)
+4/24: [L11 Standardization and Clustering](#clustering) | 4/26: L12 **First Project Presentations** + bonus topics | 
  | 
 **Data science in the real world**|
-1/30: [L13 Natural Language Processing](#nlp1) | 2/1: [L14 Dimensionality reduction](#reduction), **Draft Paper Due**
-2/6: SNOW DAY, no class | 2/8 [L15 Decision Trees](#decision) 
-2/13: [L16 Ensembling, Bagging and Random Forests](#ensemble) | 2/15: [L17 Modeling with Time Series Data I](#time1), **Peer Review Due**
-2/20: Holiday | 2/22 [L18 Modeling with Time Series Data II](#time2)
-2/27 [L19 Where to go next + bonus topics](#19_topics) | - 
-3/6: **Final Project Presentations** | 
+5/1: [L13 Natural Language Processing](#nlp1) | 5/3: [L14 Dimensionality reduction](#reduction), **Draft Paper Due**
+5/8 [L15 Decision Trees](#decision) | 5/10: [L16 Ensembling, Bagging and Random Forests](#ensemble)
+5/15: [L17 Modeling with Time Series Data I](#time1), **Peer Review Due**| 5/17 [L18 Modeling with Time Series Data II](#time2)
+5/22 [L19 Where to go next + bonus topics](#19_topics) | 5/24: **Final Project Presentations** | 
  | 
  | 
  | 
