@@ -77,7 +77,6 @@ Before this lesson you should already be able to:
 * Describe the roles and components of a successful learning environment
 * Define data science and a data science workflow
 * Apply the data science workflow to meet your classmates
-* Setup your development environment and review python basics
 
 **Topics/Highlights**
 * Welcome from General Assembly!
