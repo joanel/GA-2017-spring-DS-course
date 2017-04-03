@@ -69,11 +69,24 @@ EXERCISE:
 Bonus: Sort the list by the length of the names (shortest to longest).
 '''
 
+''' SOLUTIONS '''
+fnames = ["Rushabh","Amee","Riaan","Aayansh"] #1. Create a list of the first names of your family members.
 
+print fnames[-1] #2. Print the name of the last person in the list.
 
+print len(fnames[0]) #3. Print the length of the name of the first person in the list.
 
+fnames[2] = "Ri" #4. Change one of the names from their real name to their nickname.
 
+fnames.append("Pluto")  #5. Append a new person to the list.
 
+fnames[4] = fnames[4].lower() #6. Change the name of the new person to lowercase using the string method 'lower'.
+
+fnames.sort(reverse = True) #7. Sort the list in reverse alphabetical order.
+print fnames
+
+fnames.sort(key=len) #Bonus: Sort the list by the length of the names (shortest to longest).
+print fnames
 
 '''
 FOR LOOPS AND LIST COMPREHENSIONS
@@ -106,26 +119,24 @@ EXERCISE 1:
 Given that: letters = ['a', 'b', 'c']
 Write a list comprehension that returns: ['A', 'B', 'C']
 '''
-
+letters = ['a', 'b', 'c']
+print [x.upper() for x in letters]
 
 '''
 EXERCISE 2 (BONUS):
 Given that: word = 'abc'
 Write a list comprehension that returns: ['A', 'B', 'C']
 '''
-
-
-
+word = 'abc'
+print [x.upper() for x in word]
 
 '''
 EXERCISE 3 (BONUS):
 Given that: fruits = ['Apple', 'Banana', 'Cherry']
 Write a list comprehension that returns: ['A', 'B', 'C']
 '''
-
-
-
-
+fruits = ['Apple', 'Banana', 'Cherry']
+print [x[0] for x in fruits]
 
 '''
 DICTIONARIES
@@ -168,26 +179,28 @@ family.items()      # returns list of tuples:
                     # [('dad', 'Homer'), ('kids', ['bart', 'lisa']), ('mom', 'Marge'), ('size', 2)]
 
 
-
+print family
 #1. Print the name of the mom.
-
-
+print family["mom"]
 
 #2. Change the size to 5.
-
+family["size"] = 5
 
 
 #3. Add 'Maggie' to the list of kids.
-
+family["kids"].append("Maggie")
 
 
 #4. Fix 'bart' and 'lisa' so that the first letter is capitalized.
+family["kids"][0] = family["kids"][0].capitalize()
+family["kids"][1] = family["kids"][1].capitalize()
 
-#Bonus: Do this last step using a list comprehension.
+# Reset Bart and Lisa to lower for bonus
+family["kids"][0] = family["kids"][0].lower()
+family["kids"][1] = family["kids"][1].lower()
 
-
-
-
+# Bonus: Do this last step using a list comprehension.
+family['kids'] = [x.capitalize() for x in family['kids']]
 
 '''
 REQUESTS
