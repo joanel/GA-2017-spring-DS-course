@@ -315,7 +315,7 @@ Name | Description
 * Bonus content not covered in this lesson: Machine learning types and terms [(slides)](slides/06_machine_learning.pdf) 
 
 **Homework:**
-* Due 1/4: Complete this [homework assignment](homework/06_yelp_votes_homework.ipynb) with the [Yelp data](data/yelp.csv)
+* Due 4/12: Complete this [homework assignment](homework/06_yelp_votes_homework.ipynb) with the [Yelp data](data/yelp.csv)
 
 **KNN Resources:**
 * [(notebook)](notebooks/07_human_learning_iris.ipynb) An example of the steps one would go through using "human learning" to come up with a rule to classify new iris observations based on the Iris data set.  Contains a refresher on many Pandas techniques such as groupby and visualization.
