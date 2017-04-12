@@ -315,7 +315,7 @@ Name | Description
 * Bonus content not covered in this lesson: Machine learning types and terms [(slides)](slides/06_machine_learning.pdf) 
 
 **Homework:**
-* Due 1/4: Complete this [homework assignment](homework/06_yelp_votes_homework.ipynb) with the [Yelp data](data/yelp.csv)
+* Due 4/12: Complete this [homework assignment](homework/06_yelp_votes_homework.ipynb) with the [Yelp data](data/yelp.csv)
 
 **KNN Resources:**
 * [(notebook)](notebooks/07_human_learning_iris.ipynb) An example of the steps one would go through using "human learning" to come up with a rule to classify new iris observations based on the Iris data set.  Contains a refresher on many Pandas techniques such as groupby and visualization.
@@ -349,7 +349,7 @@ Name | Description
 <!--* An additional feature engineering example is available here: [Predicting User Engagement in Corporate Collaboration Network](https://github.com/mikeyea/DAT7_project/blob/master/final%20project/Class_Presention_MYea.ipynb) -->
 
 **Homework:**
-* The [homework assignment](homework/06_yelp_votes_homework.ipynb) with the [Yelp data](data/yelp.csv) is due 1/9
+* The [homework assignment](homework/06_yelp_votes_homework.ipynb) with the [Yelp data](data/yelp.csv) is due 4/12
 * Reading assignment on the [bias-variance tradeoff](homework/08_bias_variance.md)
 * Read Kevin Markhams's [introduction to reproducibility](http://www.dataschool.io/reproducibility-is-not-just-for-researchers/), read Jeff Leek's [guide to creating a reproducible analysis](https://github.com/jtleek/datasharing), and watch this related [Colbert Report video](http://thecolbertreport.cc.com/videos/dcyvro/austerity-s-spreadsheet-error) (8 minutes).
 * Optional: Quick Pandas exercise ([notebook](notebooks/08_pandas_review.ipynb)).  Complete this exercise to sharpen your understanding of dataframes.
