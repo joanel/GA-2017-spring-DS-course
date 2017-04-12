@@ -38,11 +38,11 @@ Bonus content: [Intro to Neural Networks](#nn) |
 
 ## Submission Forms
 
-#### [Exit ticket form](https://docs.google.com/forms/d/e/1FAIpQLSdiZnPCG426w1FaOjHeDWBDWVa44-SsxQBTQVPQs_9YsJkWvw/viewform)
+#### [Exit ticket form](https://docs.google.com/a/generalassemb.ly/forms/d/e/1FAIpQLScYwgieGvmvLDEgqtFX_KKtxFWDqbYYkUBroBzZuqbh2RO_cw/viewform)
 <!--
 (https://docs.google.com/a/generalassemb.ly/forms/d/10L0tgB2X70bIHAzb1d0_4guWmCEqxavhQAHM1t1I4-Y/viewform)
 -->
-####   [Homework and project submissions form](https://docs.google.com/forms/d/e/1FAIpQLSdGgqJ9jFJhBKDx3GAscdRxDgaqJX2jwoirL5nCyvt6z5rdyA/viewform)
+####   [Homework and project submissions form](https://docs.google.com/forms/d/e/1FAIpQLScKCXuRO0q8WQmsO-JYvFiNW6UpdqMsVlzAKXFIQQ9zxbNfXg/viewform)
 <!--
 (https://docs.google.com/forms/d/1S82LIibhiG2olZQb2C7iboqN5rb8wB6mQLFBg992eh4/viewform?usp=send_form)
 -->
@@ -96,7 +96,7 @@ Before this lesson you should already be able to:
 	* Read through the information about the course project information to familiarize yourself with the [requirements](project/README.md) and [example projects](/project/project_examples/README.md).  Start thinking about what question you would like to answer in your project.
 		* Types of data ([slides](slides/01_types_of_data.pdf)) and [public data sources](project/public_data.md)
 * Due Mar 27
-	* Review each concept and each line of code in these files of python code: [00_python_beginner_workshop.py](code/00_python_beginner_workshop.py) and [00_python_intermediate_workshop.py](code/00_python_intermediate_workshop.py). Complete the coding exercises in the files: If you don't feel comfortable with any of the content (excluding the "requests" and "APIs" sections), you should spend some time before July 6 practicing Python.  Use your resources such as documentation, searches, the class Slack to get help if you get stuck.
+	* Review each concept and each line of code in these files of python code: [00_python_beginner_workshop.py](code/00_python_beginner_workshop.py) and [00_python_intermediate_workshop.py](code/00_python_intermediate_workshop.py). Complete the coding exercises in the files: If you don't feel comfortable with any of the content (excluding the "requests" and "APIs" sections), you should spend some time before Mar 29 practicing Python.  Use your resources such as documentation, searches, the class Slack to get help if you get stuck. ##Dont
 	* To turn in homework,  attach files to a personal message in Slack to Jim Byers and Brandon 
 	* Here are some additional resources:
 	    * [Introduction to Python](http://introtopython.org/) does a great job explaining Python essentials and includes tons of example code.
@@ -141,7 +141,7 @@ Before this lesson, you should already be able to:
  
 **Homework:**
 * Due Mar 27
-	* To turn in homework,  attach files to a personal message in Slack to Jim Byers and Brandon 
+	* To turn in homework,  attach files to a personal message in Slack to Jim Byers and Bronson Shonk
 	* Review each concept and each line of code in these files of python code: [00_python_beginner_workshop.py](code/00_python_beginner_workshop.py) and [00_python_intermediate_workshop.py](code/00_python_intermediate_workshop.py). Complete the coding exercises in the files: If you don't feel comfortable with any of the content (excluding the "requests" and "APIs" sections), you should spend some time before Mar 27 practicing Python.  Use your resources such as documentation, searches, the class Slack to get help if you get stuck.  Here are some additional resources:
 	    * [Introduction to Python](http://introtopython.org/) does a great job explaining Python essentials and includes tons of example code.
 	    * If you like learning from a book, [Python for Informatics](http://www.pythonlearn.com/html-270/) has useful chapters on strings, lists, and dictionaries.
@@ -280,7 +280,7 @@ Name | Description
 * Due 4/5 
 	* Complete the [command line homework assignment](homework/04_command_line_chipotle.md) with the Chipotle data.
 	* If you're using Anaconda, install Seaborn by running `conda install seaborn` at the command line. (Note that some students in past courses have had problems with Anaconda after installing Seaborn.) If you're not using Anaconda, [install Seaborn](http://stanford.edu/~mwaskom/software/seaborn/installing.html) using `pip`. 
-	* **Optional:** Complete the homework exercise listed in the [web scraping code](code/05_web_scraping.py). It will take the place of any one homework you miss, past or future! This optional homework is due on Jan 4.
+	* **Optional:** Complete the homework exercise listed in the [web scraping code](code/05_web_scraping.py). It will take the place of any one homework you miss, past or future! This optional homework is due on April 10.
 
 **API Resources:**
 * This Python script to [query the U.S. Census API](https://github.com/laurakurup/census-api) was created by a former DAT student. It's a bit more complicated than the example we used in class, it's very well commented, and it may provide a useful framework for writing your own code to query APIs.
